@@ -1,5 +1,3 @@
-// Задача: Система управления банковскими счетами
-
 class BankAccount {
   constructor(initialBalance) {
     this.balance = Number(initialBalance);
